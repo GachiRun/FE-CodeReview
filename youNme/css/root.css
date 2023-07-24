@@ -1,0 +1,47 @@
+:root {
+    /* color */
+    --color-red: #F00;
+    --color-orange: #E94B28;
+    --color-yellow: #EBEA38;
+    --color-green: #06CC80;
+    --color-blue: #4AA5FE;
+    --color-navy: #1371ED;
+    --color-purple: #6E469F;
+    --color-white: #fff;
+    --color-gray: #D9D9D9;
+    --color-black: #000;
+    /* --color-primary: #333333;
+    --color-secondary: #000;
+    --color-accent: #000;
+    --color-background: #000; */
+
+    /* font-size */
+    --font-x-large: 32px;
+    --font-large: 24px;
+    --font-medium: 18px;
+    --font-regular: 16px;
+    --font-small: 14px;
+    --font-x-small: 12px;
+
+    /* line height */
+    --display-line: 48px;
+    --headline1-line: 38px;
+    --headline2-line: 32px;
+    --title1-line: 26px;
+    --title2-line: 24px;
+    --body1-line: 26px;
+    --body2-line: 24px;
+    --label1-line: 24px;
+    --label2-line: 20px;
+    --caption1-line: 16px;
+    --caption2-line: 14px;
+
+    /* round */
+    --border-radius-large: 28px;
+    --border-radius-medium: 16px;
+    --border-radius-regular: 8px;
+    --border-radius-small: 4px;
+
+    /* width */
+    --pc-width: 996px;
+}
