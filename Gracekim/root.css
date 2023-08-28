@@ -1,0 +1,36 @@
+:root {
+    /* color */
+    --color-primary1: #333333;
+    --color-primary2: #666666;
+    --color-primary3: #DBDBDB;
+    --color-primary4: #EDEDED;
+
+    /* font-size */
+    --display-size: 36px;
+    --headline1-size: 28px;
+    --headline2-size: 24px;
+    --title1-size: 20px;
+    --title2-size: 17px;
+    --body1-size: 16px;
+    --body2-size: 15px;
+    --label1-size: 16px;
+    --label2-size: 14px;
+    --caption1-size: 12px;
+    --caption2-size: 11px; 
+
+    /* line height */
+    --display-line: 48px;
+    --headline1-line: 38px;
+    --headline2-line: 32px;
+    --title1-line: 26px;
+    --title2-line: 24px;
+    --body1-line: 26px;
+    --body2-line: 24px;
+    --label1-line: 24px;
+    --label2-line: 20px;
+    --caption1-line: 16px;
+    --caption2-line: 14px;
+
+    /* width */
+    --pc-width: 996px;
+}
